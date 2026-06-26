@@ -1,0 +1,6 @@
+{
+  "name": "Joe's Coffee",
+  "description": "Premium coffee shop website featuring handcrafted espresso drinks, artisanal pastries, private event booking, and interactive online ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
